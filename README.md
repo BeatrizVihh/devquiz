@@ -1,6 +1,6 @@
 # DevQuiz
 
-**Disciplina:** [NOME DA DISCIPLINA]
+**Disciplina:** I WI
 **Autor(es):** BEATRIZ VITÓRIA DE OLIVEIRA ALENCAR e FLAVIO GUSTAVO NOIM DE SANTANA
 
 ## Descrição
