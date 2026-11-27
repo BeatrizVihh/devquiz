@@ -1,7 +1,7 @@
 ---
 title: "Relatório Técnico: React e NestJS"
 subtitle: "Projeto DevQuiz — Disciplina: [NOME DA DISCIPLINA]"
-author: "[Seu nome]"
+author: "BEATRIZ VITIRIA DE OLIVEIRA ALENCAE e FLAVIO GUSTAVO NIOM DE SANTANA"
 ---
 
 ## 1. Introdução

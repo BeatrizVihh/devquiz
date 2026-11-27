@@ -1,6 +1,6 @@
 # Planejamento — DevQuiz (React + NestJS)
 
-**Disciplina:** [NOME DA DISCIPLINA] · **Autor(es):** [Seu nome]
+**Disciplina:** [NOME DA DISCIPLINA] · **Autor(es):** BEATRIZ VITIRIA DE OLIVEIRA ALENCAE e FLAVIO GUSTAVO NIOM DE SANTANA
 
 ## 1. Objetivo
 

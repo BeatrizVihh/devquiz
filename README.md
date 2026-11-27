@@ -1,7 +1,7 @@
 # DevQuiz
 
 **Disciplina:** [NOME DA DISCIPLINA]
-**Autor(es):** [Seu nome]
+**Autor(es):** BEATRIZ VITIRIA DE OLIVEIRA ALENCAE e FLAVIO GUSTAVO NIOM DE SANTANA
 
 ## Descrição
 
